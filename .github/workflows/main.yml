@@ -3,7 +3,7 @@ name: build
 on: [push]
 
 env:
-  UPLOAD_USER_FIRMWARE:ture
+  UPLOAD_USER_FIRMWARE: ture
 
 jobs:
   build:
